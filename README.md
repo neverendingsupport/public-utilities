@@ -1,3 +1,5 @@
 # NES Public Utilities
 
-This repo will contain useful **__public__** assets for NES customers and maintainers.
+### Bazel Node Rules
+
+Internal use only. See `Angular` repository for more details.
